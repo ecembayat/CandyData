@@ -1,4 +1,4 @@
-# CandyData
+# CandyData Visualizing with ggplot2
 
 The "gg" in "ggplot" stands for "the grammar of graphics". Plots in ggplot2 are "built up" using multiple functions connected with the plus sign (+). The first function, ggplot(), just draws the outline of the plot, including the the axes and tick marks. It takes two arguments: The dataset that you want to plot.
 A function, aes(), short for aesthetic. This function can take multiple arguments, and each argument tells ggplot which variables in the dataset you want to be mapped to which part of the plot. By default, the first two arguments will be assigned to the x-axis and y-axis.
